@@ -216,7 +216,8 @@ a {
   position: relative;
   display: grid;
   grid-template-columns: minmax(0, 1.02fr) minmax(360px, 0.78fr);
-  gap: 52px;
+  column-gap: 18px;
+  row-gap: 32px;
   align-items: center;
 }
 
