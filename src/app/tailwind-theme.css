@@ -1,0 +1,20 @@
+@theme inline {
+  --color-background: var(--card);
+  --color-foreground: var(--ink);
+  --color-card: var(--card);
+  --color-card-foreground: var(--ink);
+  --color-primary: var(--primary);
+  --color-primary-dark: var(--primary-dark);
+  --color-primary-foreground: #ffffff;
+  --color-secondary: var(--surface-strong);
+  --color-secondary-foreground: var(--primary-dark);
+  --color-muted: var(--surface);
+  --color-muted-foreground: var(--ink-soft);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--ink);
+  --color-destructive: var(--danger);
+  --color-destructive-foreground: #ffffff;
+  --color-border: var(--border);
+  --color-input: var(--border);
+  --color-ring: var(--accent);
+}

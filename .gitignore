@@ -1,0 +1,16 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies and generated output
+node_modules/
+.next/
+*.tsbuildinfo
+dist/
+build/
+coverage/
+.playwright/
+
+# Local design/audit output
+.audit-output/
